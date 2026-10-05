@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Finger Paint",
+    "previewText": "Finger Paint is a playful brush-style typeface",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-Bold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-BoldItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-ExtraBold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-ExtraBoldItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-Medium": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-MediumItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-Normal": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-NormalItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-Semibold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggsans-SemiboldItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-Bold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-ExtraBold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-Medium": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-Normal": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-NormalItalic": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "NotoSans-Semibold": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf",
+        "ggmono-Normal": "https://3c71.com/fonts/download/FingerPaint-Regular.ttf"
+    }
+    }
